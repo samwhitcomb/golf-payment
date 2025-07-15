@@ -1,6 +1,6 @@
-# MLM2PRO Premium Subscription Page
+Premium Subscription Page
 
-A static subscription page for MLM2PRO Premium plans. This page demonstrates a modern, responsive checkout experience with multiple subscription options.
+A static subscription page for Premium plans. This page demonstrates a modern, responsive checkout experience with multiple subscription options.
 
 ## Features
 
